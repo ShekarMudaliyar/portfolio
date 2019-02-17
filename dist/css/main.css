@@ -117,7 +117,7 @@
     .menu-branding .portrait {
       width: 150px;
       height: 150px;
-      background-size: contain; } }
+      background-size: cover; } }
 
 @media screen and (max-width: 500px) {
   main#home h1 {
